@@ -1,0 +1,11 @@
+flask
+pytest
+pylint
+pandas
+tensorflow>=2.0.0
+keras
+alpha_vantage
+numpy
+yahoofinancials
+pendulum
+holidays
